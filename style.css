@@ -1,0 +1,63 @@
+/*  */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,
+body
+{
+    font-family: 'Noto Sans JP', sans-serif;
+    line-height: 1.4em;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    margin: 0.75rem 0px;
+}
+
+section {
+    background-color: #fdf6f0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 0 2rem;
+    overflow: hidden;  
+    
+}
+
+h2 {
+    text-align: center;
+    margin: 30px;
+}
+
+span {
+    color: #ff7600;
+}
+
+.content {
+    display: flex;
+}
+
+
+.content-1 {
+    display: flex;
+    margin: 20px;
+    padding-bottom: 30px;
+}
+
+.icon {
+    padding: 20px;
+
+} 
+
+i {
+        background-color: #f8e2cf;
+        border-radius: 100%;
+        padding: 10px;
+}
